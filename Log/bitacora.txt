@@ -1,0 +1,17 @@
+commit 959909d8b82ecde395a060bd18cdc1f80cb144a9
+Author: CarlosSandoval2003 <jawicho@outlook.com>
+Date:   Mon Mar 6 15:40:14 2023 -0600
+
+    Creacion de Mantenimientos de Clases y General
+
+commit 0c7ab3593fd03c7f11a992bff99ef2c389722215
+Author: CarlosSandoval2003 <jawicho@outlook.com>
+Date:   Mon Mar 6 15:37:42 2023 -0600
+
+    Creacion de Todas Las Clases y el Login
+
+commit d6270baa2c55ee884e8b48c0c4d2e9c40de97937
+Author: CarlosSandoval2003 <jawicho@outlook.com>
+Date:   Mon Mar 6 15:28:01 2023 -0600
+
+    Creación Del Programa
